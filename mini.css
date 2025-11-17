@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(235, 246, 255);
+  font-family: sans-serif;
+}
+
+.card{
+  width: 300px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.199);
+  border-radius: 5px;
+  margin: 15% auto;
+}
+
+img{
+  border-radius: 5px 5px 0 0;
+}
+
+.container{
+  padding: 2px 18px 30px 20px;
+}
+
+.container h4{
+  display: inline-block;
+}
+
+p, h4{
+  margin: 5px 0px;
+}
+
+.heart{
+  color: black;
+}
